@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akademik.uby.ac.id/news/sitemap.xml
